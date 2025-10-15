@@ -8,7 +8,6 @@ A simple Python script that shows the current temperature and wind speed for any
 
 1️⃣ Install Git and Python:
 ```bash
-pkg install git python -y
 
 git clone https://github.com/mtz2224/weather.git
 
